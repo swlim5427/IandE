@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
 
 //    @Override
 //    public void onCreate(Bundle saveInstanceState){
-//        super.onCreate(saveInstanceState);//调用父类的onCreate方法
+//        super.onCreate(saveInstanceState);//调用父类的onCreate方法1111
 //        setContentView(R.layout.activity_main);
 //        final TextView Text = (TextView) findViewById(R.id.textView);
 //        final Button ButtonRed = (Button) findViewById(R.id.redbutton);
